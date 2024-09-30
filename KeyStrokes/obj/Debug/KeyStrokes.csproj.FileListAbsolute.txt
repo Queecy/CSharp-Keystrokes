@@ -1,0 +1,13 @@
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\bin\Debug\KeyStrokes.exe.config
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\bin\Debug\KeyStrokes.exe
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\bin\Debug\KeyStrokes.pdb
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.csproj.AssemblyReference.cache
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.Properties.Resources.resources
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.csproj.GenerateResource.cache
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.csproj.CoreCompileInputs.cache
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.csproj.Up2Date
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.exe
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.pdb
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.Main.resources
+C:\Users\mrque\Desktop\KeyStrokes\KeyStrokes\obj\Debug\KeyStrokes.GameMode.resources
