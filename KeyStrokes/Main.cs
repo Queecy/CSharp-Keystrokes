@@ -50,7 +50,7 @@ namespace KeyStrokes
             // .cur .ani
             string appDataPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
             string cursorFilePath = Path.Combine(appDataPath, "Cursor.ani");
-            string cursorUrl = "https://raw.githubusercontent.com/MrQueecy/CSharp-Keystrokes/main/Cursor.ani";
+            string cursorUrl = "https://raw.githubusercontent.com/Queecy/CSharp-Keystrokes/main/Cursor.ani";
             if (!File.Exists(cursorFilePath))
             {
                 try
